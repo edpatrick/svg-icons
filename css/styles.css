@@ -1,7 +1,10 @@
-.content {
+body {
 	background: #2A2B2B;
-	padding: 1em;
 	color: #FFFFFF;
+}
+
+.content {	
+	padding: 1em;
 }
 
 /** Layout **/
