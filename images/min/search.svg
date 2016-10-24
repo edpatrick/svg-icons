@@ -1,0 +1,8 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <title>
+        search
+    </title>
+    <path d="M6.9 1a5.87 5.87 0 1 0 5.87 5.87A5.87 5.87 0 0 0 6.9 1zm0 10.83a5 5 0 1 1 5-5 5 5 0 0 1-5.01 5.01z"/>
+    <path d="M6.9 1a5.87 5.87 0 1 0 5.87 5.87A5.87 5.87 0 0 0 6.9 1zm0 10.83a5 5 0 1 1 5-5 5 5 0 0 1-5 5z"/>
+    <rect stroke="currentColor" fill="currentColor" x="13.44" y="10.54" width="3.41" height="9.05" rx="1.37" ry="1.37" transform="rotate(-45 15.141 15.068)"/>
+</svg>

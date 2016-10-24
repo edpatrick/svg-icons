@@ -1,0 +1,8 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <title>
+        pencil
+    </title>
+    <path fill="currentColor" stroke="currentColor" d="M17 4.18A.89.89 0 0 0 16.78 3a.89.89 0 0 0-1.21-.19l-.57.55 1.4 1.4z"/>
+    <path d="M14.504 3.827l.354-.353 1.4 1.4-.354.353zM14.402 3.944l1.407 1.407L6.46 14.7l-1.407-1.407z"/>
+    <path fill="currentColor" stroke="currentColor" d="M4.87 13.46l1.41 1.41-3.06 1.63 1.65-3.04z"/>
+</svg>

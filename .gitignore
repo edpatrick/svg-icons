@@ -1,0 +1,5 @@
+.DS_STORE
+.vagrant
+node_modules
+Vagrantfile
+*.ai

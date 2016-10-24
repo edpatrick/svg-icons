@@ -1,0 +1,121 @@
+.content {
+	background: #2A2B2B;
+	padding: 1em;
+	color: #FFFFFF;
+}
+
+/** Layout **/
+
+.flex-container-row {
+	padding: 0;
+	margin-top: 1em;
+	  
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+
+	-webkit-flex-wrap: wrap; /* Safari */
+	flex-wrap:         wrap;
+	  
+	-webkit-justify-content: space-between; /* Safari */
+	justify-content:         space-between;
+
+}
+
+
+.flex-item {
+  flex: 1 1 auto;
+}
+
+.flex-item.title {
+	flex: 1 1 100%;
+}
+
+/******************
+ Text 
+******************/
+
+.title {
+	fill: transparent;
+	stroke: #75A9AF;
+}
+
+.title:hover  {
+	stroke: #FFFFFF;
+}
+
+.title:hover .blur  {
+	filter: url(#blur);
+}
+
+
+.button {
+	padding: 1em;
+	display: inline-block;
+	color: #FFFFFF;
+	background: #75A9AF;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px; 
+	-khtml-border-radius: 10px; 
+}
+
+.button:hover {
+	background: #5B9298;
+}
+
+.button .icon {
+	fill: #186068;
+	stroke: #186068;
+	color: #238590;
+}
+
+.button:hover .icon {
+	fill: #238590;
+	stroke: #238590;
+	color: #186068;
+}
+
+/******************
+ Buttons 
+******************/
+
+ a.button:link, 
+ a.button:active,
+ a.button:visited,
+ a.button:hover {
+	text-decoration: none;
+}
+
+/******************
+Icons
+******************/
+
+.icon {
+  width: 1.4em; height: 1.4em;
+  vertical-align: -0.25em;
+  fill: currentColor;
+  stroke: currentColor;
+}
+
+.link-no-text .icon {
+  width: 4em; height: 4em;
+  vertical-align: -1em;	
+}
+
+.no-link .icon {
+	fill: #186068;
+  stroke: #186068;
+  color: #186068;
+}
+
+/******************
+ SVG 
+******************/
+
+.svg-filters {
+	/* hide at top of body */
+	display: none;
+}
