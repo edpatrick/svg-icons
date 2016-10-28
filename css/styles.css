@@ -123,3 +123,14 @@ Icons
 	/* hide at top of body */
 	display: none;
 }
+
+#cog-large {
+	fill: #186068;
+	stroke: #186068;
+}
+
+#cog-medium,
+#cog-small {
+	fill: #238590;
+	stroke: #238590;	
+}
